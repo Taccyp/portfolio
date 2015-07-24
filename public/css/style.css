@@ -1,0 +1,135 @@
+body {
+  font-family: 'Open Sans', sans-serif; }
+
+#header {
+  height: 3em;
+  background-color: #fff;
+  line-height: 3em;
+  vertical-align: bottom;
+  font-size: 20px; }
+
+#nav li {
+  display: inline;
+  color: #94090D;
+  margin-left: 1.5em; }
+
+#nav ul {
+  text-decoration: none; }
+
+#nav {
+  float: right;
+  margin-right: 1em; }
+
+#navel {
+  display: inline; }
+
+#name {
+  margin-left: 1em;
+  color: #94090D; }
+
+#stinger {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  line-height: 350px;
+  vertical-align: middle; }
+
+#wrapper {
+  width: 90%; }
+
+#landing {
+  height: 400px;
+  background-color: #94090D; }
+
+#wrapper {
+  width: 90%; }
+
+#work_header {
+  text-align: center;
+  font-size: 60px;
+  color: #94090D;
+  font-family: 'Open Sans', sans-serif; }
+
+#about_header {
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff; }
+
+#about_section_top {
+  background-color: #94090D;
+  text-align: center; }
+
+#about_section_content {
+  background-color: #94090D; }
+
+#about_section_content {
+  color: #fff; }
+
+#about_section_content ul {
+  list-style: square; }
+
+#circle {
+  border-radius: 50%;
+  width: 350px;
+  height: 350px;
+  background-color: white;
+  margin-left: 75px; }
+
+#footer {
+  text-align: center;
+  padding: 0 !important;
+  margin: 0 !important; }
+
+#large_text {
+  width: 30%; }
+
+.resources {
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  font-size: 20px; }
+
+.resources p {
+  font-size: 20px; }
+
+.resources a {
+  color: #fff; }
+
+.resource a:visited {
+  color: #fff; }
+
+#resources_container {
+  margin-top: 2em; }
+
+#contact_header {
+  text-align: center;
+  color: #94090D; }
+
+#footer {
+  height: 10em;
+  background-color: #919090; }
+
+#footer ul {
+  list-style: none;
+  text-align: middle; }
+
+#footer li i {
+  font-size: 45px; }
+
+#footer li {
+  display: inline;
+  margin-right: 45px;
+  color: #fff;
+  line-height: 10em;
+  vertical-align: middle; }
+
+#kappa {
+  height: 3em;
+  background-color: #E0E0EB; }
+
+#kappa p {
+  margin-top: 12px;
+  float: left; }
+
+/*# sourceMappingURL=style.css.map */
