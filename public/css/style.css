@@ -1,6 +1,9 @@
 body {
   font-family: 'Open Sans', sans-serif; }
 
+#mobile_nav {
+  display: none; }
+
 #header {
   height: 3em;
   background-color: #fff;
@@ -131,5 +134,39 @@ body {
 #kappa p {
   margin-top: 12px;
   float: left; }
+
+@media all and (max-width: 1030px) {
+  .row {
+    display: block; }
+
+  #stinger {
+    font-size: 30px; } }
+@media all and (max-width: 910px) {
+  #circle {
+    display: none; } }
+@media all and (max-width: 620px) {
+  #nav {
+    display: none; }
+
+  #mobile_nav li {
+    color: #94090D;
+    margin-left: 1.5em;
+    font-size: 40px; }
+
+  #mobile_nav ul {
+    text-decoration: none;
+    list-style: square;
+    text-align: left;
+    padding-left: 0; }
+
+  #mobile_nav {
+    display: none; }
+
+  #landing {
+    display: none; }
+
+  #header_content {
+    text-align: center;
+    font-size: 40px; } }
 
 /*# sourceMappingURL=style.css.map */
